@@ -1,0 +1,24 @@
+{
+  "name": "재도테크 - 파렛트랙·경량랙·중량랙 전문",
+  "short_name": "재도테크",
+  "description": "파렛트랙, 경량랙, 중량랙 등 물류설비시스템 전문업체",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0055A6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "logistics"],
+  "lang": "ko-KR"
+}
